@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Russel's sermon on the unpardonable sin against the Holy Ghost, or, The sin unto death Wherein is declared, a plain description of it, both negatively what it is not, and also positively what it is; and a plain reason why it is unpardonable. With a word of comfort, and also of counsel, how to avoid it. By R. Russel, in Sussex. Licensed according to order.</title>
+            <author>Russel, Robert, fl. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57943</idno>
+            <idno type="STC">Wing R2347L</idno>
+            <idno type="STC">ESTC R218546</idno>
+            <idno type="EEBO-CITATION">99830128</idno>
+            <idno type="PROQUEST">99830128</idno>
+            <idno type="VID">34578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2018:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Russel's sermon on the unpardonable sin against the Holy Ghost, or, The sin unto death Wherein is declared, a plain description of it, both negatively what it is not, and also positively what it is; and a plain reason why it is unpardonable. With a word of comfort, and also of counsel, how to avoid it. By R. Russel, in Sussex. Licensed according to order.</title>
+                  <author>Russel, Robert, fl. 1692.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and sold by I. Blare at the Looking-Glass on London-Bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>With a half page of advertisment on pg. [2].</note>
+                  <note>Caption title on pg. [3]: Of the unpardonable sin against the Holy Ghost.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Spirit --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34578:1" rendition="simple:additions"/>
+            <p>
+               <hi>R<g ref="char:V">Ʋ</g>SSEL'S</hi> Sermon Of the Unpardonable Sin againſt the Holy Ghoſt, Or, <hi>The Sin unto Death.</hi>
+            </p>
+            <p>Wherein is declared, a plain Deſcription of it, both Negatively what it is not, and alſo Poſitively what it is; and a plain Reaſon why it is Unpardonable. With a Word of Comfort, and alſo of Counſel, how to avoid it.</p>
+            <p>By <hi>R. Ruſſel,</hi> in <hi>Suſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hebr. 10.26.</hi>
+               </bibl>
+               <p>If we ſin wilfully after we have received the knowledge of the truth, there remains no more ſacrifice for ſin.</p>
+            </q>
+            <p>Licenſed according to Order.</p>
+            <figure>
+               <q>
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> HINC LVCEM</q>
+               <q>ALMA MATER <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </q>
+            </figure>
+            <p>Printed for the Author, and Sold by <hi>I. Blare,</hi> at the Looking-Glaſs on <hi>London-Bridge.</hi> 1692.</p>
+            <pb facs="tcp:34578:2" rendition="simple:additions"/>
+            <pb facs="tcp:34578:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34578:3"/>
+            <head>The Preface to the READER.</head>
+            <p>THE Reaſon of this following Treatiſe is, becauſe ſome People have deſired ſatisfaction from me what the Sin againſt the <hi>Holy Ghoſt</hi> is, but I could not make a full diſcription of it in ſhort: Therefore it came in my mind to inlarge upon it in a Small Book, wherein they may receive full ſatisfaction about it. And this I have done, not from the Opinions of others, but from the true and written word of God. This Sin can be committed but by few, and yet ſometimes ſteals into the hearts of them that commit it, when they diſcern it not. But the Lord of his Mercy keep us all, both from that Sin, and alſo from the reign and dominion of every Sin: Which that we may do, is the Prayer of</p>
+            <closer>
+               <signed>Your dear Friend, <hi>R. RUSSEL.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>Theſe four Books, lately Written by</hi> Robert Ruſſel, <hi>are ſold by</hi> J. Blare <hi>Book-ſeller,</hi> at the <hi>Looking-Glaſs,</hi> on <hi>London-bridge.</hi>
+            </p>
+            <list>
+               <item>1. THe accepted Time and Day of Salvation; ſhew<g ref="char:EOLhyphen"/>ing the goodneſs of God towards Mankind in putting an opportunity of Grace into our hands.</item>
+               <item>2. The end of Time and beginning of Eternity; ſhew<g ref="char:EOLhyphen"/>ing that this golden opportunity of Grace will ſoon have an end, and then will follow a long Eternity; With Ex<g ref="char:EOLhyphen"/>hortations to Redeem Time.</item>
+               <item>3. The Glory of the Saints in Heaven with <hi>Jeſus Chriſt,</hi> and the Eternal Torments of the Damned in Hell.</item>
+               <item>4. A little Book for Children and Youth; exhorting them to reſiſt the temptations of the Devil whilſt young. With Nine Leſſons of Directions how they ſhall merit E<g ref="char:EOLhyphen"/>ternal Life.</item>
+               <item>5. The Wedding Garment or The Honourable ſtate of <hi>Matrimony:</hi> Deliver'd in a Wedding-Sermon.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:34578:3"/>
+            <head>OF THE Unpardonable SIN Againſt the <hi>Holy Ghoſt.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>1. <hi>John</hi> 5. <hi>part of Ver.</hi> 16.</bibl>
+                  <p>There is a Sin unto Death.</p>
+               </q>
+            </epigraph>
+            <p>THis Sin which St. <hi>John</hi> calls here <hi>the Sin unto Death,</hi> is the unpardonable Sin againſt the <hi>Holy Ghoſt,</hi> deſcribed by our bleſſed Saviour, <hi>Matth.</hi> 12.32. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat whoſoever commits it, hath no forgiveneſs, neither in this World, nor in the World to come; for, <hi>All manner of Sin and Blaſphemy ſhall be forgiven unto Men; but the Blaſphemy againſt the</hi> Holy Ghoſt, <hi>ſhall not be forgiven unto Men: And <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e that ſpeaketh a word againſt the Son, it ſhall be forgiven him; but whoſoever ſpeaks againſt the</hi> Holy Ghoſt, <hi>ſhall never be forgiven, neither in this World,
+<pb facs="tcp:34578:4"/>nor in the World to come.</hi> This Sin againſt the <hi>Holy Ghoſt,</hi> this is that ſin which St. <hi>John</hi> calls here <hi>the Sin unto Death:</hi> Not becauſe that ſin deſerves Death, for ſo does all ſin deſerve Death, both Temporal and Eternal; for <hi>the wages of Sin</hi> (even all) <hi>is Death,</hi> Rom. 6. But this ſin againſt the <hi>Holy Ghoſt</hi> is called, <hi>The Sin unto Death;</hi> becauſe it binds a man over to Eternal Death, without any poſſibility of recovery. Now ſome there are, that go on from one degree of ſin to another, they heighten and aggravate their ſins more and more, until they are brought to that height at laſt, as to commit that ſin, for which there is no forgiveneſs.</p>
+            <p>There is no meer Man ſince the fall, that can live without ſin, for all are ſinners; but yet there are degrees of ſin; ſome ſins in their own nature are ſmall, others are more great and hainous. Many ſins there are that are great, yet pardonable, and one ſin there is unpardonable, and whoſoever com<g ref="char:EOLhyphen"/>mits that one ſin, ſhall have no forgiveneſs, but muſt for ever bear the weight and pu<g ref="char:EOLhyphen"/>niſhment, both of that and all of his other ſins. There is ſuch a ſin as St. <hi>John</hi> ſpeaks of here in my Text, that is, <hi>a Sin unto Death.</hi>
+            </p>
+            <p>And now I come to the Explication of the words; from whence I ſhall raiſe this point of Doctrine.</p>
+            <pb facs="tcp:34578:4"/>
+            <p>Doct. <hi>That amongſt other Sins committed by fallen Mankind, there is only one Sin that is</hi> a Sin unto Death, <hi>and whoſoever commit<g ref="char:EOLhyphen"/>teth that, he hath no forgiveneſs, neither in this World, nor in the World to come.</hi>
+            </p>
+            <p>Now for my further proceeding on the Subject, I ſhall lay open to you,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> What <hi>the Sin unto Death is.</hi>
+                  </item>
+                  <item>
+                     <hi>Secondly,</hi> That all other Sins, how great and hainous ſoever, may be forgiven.</item>
+                  <item>
+                     <hi>Thirdly</hi> That this Sin alone, ſhall never be forgiven.</item>
+                  <item>
+                     <hi>Fourthly,</hi> The reaſon why that Sin alone is Unpardonable: And then</item>
+                  <item>
+                     <hi>Laſtly,</hi> I ſhall conclude all with a few words of Application.</item>
+               </list>
+            </p>
+            <p>I ſhall begin firſt with the Diſcription of this unpardonable ſin; where I ſhall endea<g ref="char:EOLhyphen"/>vour to make as plain a Diſcription of it as poſſible I can; and in doing of it, I ſhall Firſt ſhew you Negatively what is not this Sin: Secondly, I ſhall ſhew you Poſitively what it is.</p>
+            <p>
+               <hi>Firſt,</hi> I ſhall ſhew you Negatively, what is not this Sin unto Death, or in what de<g ref="char:EOLhyphen"/>gree a man may ſin, and yet not commit that unpardonable Sin againſt the <hi>Holy Ghoſt.</hi>
+            </p>
+            <pb facs="tcp:34578:5"/>
+            <p>
+               <hi>Firſt:</hi> It is not every quenching of the motions of the Spirit that is that Sin: It is true, when the Holy Ghoſt comes with a ſtill voice, and knocks at the doors of ſin<g ref="char:EOLhyphen"/>ners hearts for entrance, he often comes and ſtrives with them, and ſecretly wooes and beſeeches them to leave their Sins, and be Converted, yet they quench and ſtifle all his motions, and bare up their hearts againſt him, and will not be obedient to his Hea<g ref="char:EOLhyphen"/>venly Calls; now ſuch ſin grievouſly againſt the Holy Ghoſt: But yet this alone is not the unpardonable ſin againſt the Holy Ghoſt; for many who have ſtood it out a long time, and have often quenched and grieved the Holy Spirit, yet at laſt they have been wrought upon unto ſincere Converſion.</p>
+            <p>
+               <hi>Secondly,</hi> A man may commit many hai<g ref="char:EOLhyphen"/>nous and crying Sins, and yet not be guilty of the unpardonable Sin againſt the Holy Ghoſt. A man may be an Idolator, a Whore<g ref="char:EOLhyphen"/>monger, a Fornicator, a Murderer, and work Witch-craft, and Sin with a very high hand, nay, he may live in all manner of filthineſs and lewdneſs, and yet not be under the guilt of the unpardonable Sin againſt the Holy Ghoſt. Thus we read, 2 <hi>Chron.</hi> 33. that <hi>Manaſſes</hi> ſinned with a very high hand; he was an Idolator, an Inchanter, and work<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:34578:5"/>Witch-craft, and dealt with Familiar Spirits, and wrought much evil in the ſight of the Lord: And <hi>Mary Magdalen</hi> had ſeven Devils caſt out of her, <hi>Luke</hi> 8.2. and yet both were pardoned.</p>
+            <p>
+               <hi>Thirdly;</hi> A man may Sin preſumptuouſly againſt great Light and Knowledge, and yet not commit this <hi>Sin unto Death:</hi> for <hi>Peter</hi> when he denyed Chriſt, he did it againſt great knowledge of Chriſt; he knew Chriſt to be his Lord and Saviour, he was one of Chriſts beloved Diſciples, and for all that, how ſtrongly he denyed Chriſt, and that with an Cath too; and yet for all that, Chriſt looked upon him with a merciful eye, and he Repented, and was forgiven.</p>
+            <p>
+               <hi>Fourthly;</hi> It is not every malicious Sin that is the unpardonable Sin againſt the Ho<g ref="char:EOLhyphen"/>ly Ghoſt; for St. <hi>Paul</hi> certainly had great malice in his heart, when he went on ſo fu<g ref="char:EOLhyphen"/>riouſly to perſecute the Church of God; and yet he was Converted, and became a Preacher of the Goſpel of Chriſt, which be<g ref="char:EOLhyphen"/>fore he perſecuted.</p>
+            <p>
+               <hi>Fifthly and Laſtly;</hi> It is not final Unbelief, nor final Impenitence, that is the unpardo<g ref="char:EOLhyphen"/>able Sin againſt the Holy Ghoſt, though ſome
+<pb facs="tcp:34578:6"/>be of opinion, that it is becauſe that Sin is Unpardonable; and Chriſt himſelf hath ſaid <hi>Matth.</hi> Chap. 12. Ver. 32. <hi>That all manner of Sin and Blaſphemy ſhall be forgiven unto Man, ex<g ref="char:EOLhyphen"/>cept it be the Sin againſt the Holy Ghoſt.</hi> But you are to take the words of our Saviour in their true ſence and meaning; it is all manner of Sin and Blaſphemy committed with<g ref="char:EOLhyphen"/>in the compaſs of a Mans life, that ſhall be forgiven, except the Sin againſt the Ho<g ref="char:EOLhyphen"/>ly Ghoſt; for the Sin of final Impenitency and final Unbelief, is not compleated until the very moment of a Mans Death, and then you all know, that there is no Repentance, and conſequently no Pardon after Death, for Chriſt ſaith, <hi>He that Sins againſt the Holy Ghoſt, hath no forgiveneſs, neither in this World, nor in the World to come.</hi> Now why ſhould Chriſt ſay <hi>in this World,</hi> if there be no ſpace to be forgiven in this World? but a Man may commit the unpardonable Sin againſt the Holy Ghoſt, even many years before his death. Beſides, there are many Thouſands that dye in Im<g ref="char:EOLhyphen"/>penitency and Unbelief, and are Damned, and yet never committed the unpardonable Sin againſt the Holy Ghoſt. Thus I have ſhew<g ref="char:EOLhyphen"/>ed you Negatively what is not this unpar<g ref="char:EOLhyphen"/>donable Sin, none of theſe Sins in particular, is that Sin.</p>
+            <pb facs="tcp:34578:6"/>
+            <p>
+               <hi>Secondly:</hi> I come now to ſhew you Poſi<g ref="char:EOLhyphen"/>tively what this <hi>Sin unto Death</hi> is, and where<g ref="char:EOLhyphen"/>in this unpardonable Sin againſt the Holy Ghoſt doth conſiſt. Now there are ſeveral Opinions in the World about it; ſome hold one thing, ſome another; but I have not time nor room to diſpute concerning others Opini<g ref="char:EOLhyphen"/>ons about it; but I will endeavour, through Gods help, to lead you to the plain ſight of it, by the light of the Holy Scripture.</p>
+            <p>Now in the firſt place you muſt know, that there are two ſorts of People that cannot commit this Unpardonable Sin. Firſt, the True Believers cannot commit it, though many times, for their Tryal, God ſuffers them to fall fouly into many grievous Sins; yet they being Rooted in Chriſt, they are upheld by free Grace and Mercy, that they cannot fall into this Unpardonable Sin. Secondly, the groſly ignorant cannot commit it becauſe it is a Sin againſt great Light and Knowledge: In<g ref="char:EOLhyphen"/>deed, the greateſt part of the World ſhall be Damned; yet among that greateſt part, there is but few of them that can commit that Un<g ref="char:EOLhyphen"/>pardonable Sin againſt the Holy Ghoſt.</p>
+            <p>Some have both Light and Grace, theſe ſhall not commit this Unpardonable Sin. A<g ref="char:EOLhyphen"/>gain, Some have neither Light nor Grace, theſe cannot commit it: But there are ſome
+<pb facs="tcp:34578:7"/>again that have Light and no Grace; theſe are they that are liable to commit the Un<g ref="char:EOLhyphen"/>pardonable Sin againſt the Holy Ghoſt. Now there muſt be two Ingredients to make up this Unpardonable Sin; that is, Light in the Head, and Malice in the Heart, without theſe two the Sin againſt the Holy Ghoſt cannot be committed. For to Sin againſt great Light and Knowledge, is not that Sin alone; nor yet to Sin Ignorantly out of that Malice, is not that Sin; but they muſt joyn both to<g ref="char:EOLhyphen"/>gether to make up this Unpardonable Sin. This we ſee plain by the Example of St. <hi>Peter</hi> and St. <hi>Paul: Peter</hi> he denyed Chriſt, and forſwore himſelf too, and that grievouſly againſt great Light and Knowledge; for he knew Chriſt to be the only begotten Son of God, and he knew God in him: he was one of Chriſts Diſciples, and one of his be<g ref="char:EOLhyphen"/>loved Diſciples too; he was taught of Chriſt, and had experimental knowledge of his love and favour, and yet he wickedly with an Oath denyed him. Now if <hi>Peter</hi> had done this out of Malice and Spight, then he had committed that <hi>Sin unto Death,</hi> for which there is no forgiveneſs. But <hi>Peter</hi> had no Malice in his heart all this while, even at that time when he denyed Chriſt, as you may ſee <hi>Matth.</hi> 29. when Chriſt told him, <hi>Before the Cock Crow thou ſhalt deny me thrice:</hi>
+               <pb facs="tcp:34578:7"/>He anſwered, <hi>If I ſhould dye with thee, I will not deny thee.</hi> And then denying him through infirmity and weakneſs of the fleſh, when he had conſidered what he had done, <hi>he went out and wept bitterly,</hi> ver. 75. And <hi>Paul</hi> he had great Malice and Spight againſt the ways and People of God, as you may ſee, <hi>Acts</hi> 9.1. Paul <hi>breathed out threatnings and ſlaughter againſt the Diſciples of the Lord, and deſired of them Letters to</hi> Damaſcus, <hi>to the Synagogues, that if he found any of this way, whether Men or Wo<g ref="char:EOLhyphen"/>men, that he ſhould bring them bound to</hi> Jeruſalem. Now here was great Rage and Malice in <hi>Saul,</hi> againſt the ways and People of God; but doing it Ignorantly, he at laſt hearing of a voice, ſaying, Saul, Saul, <hi>why Perſecuteſt thou me?</hi> and receiving of a Light from Hea<g ref="char:EOLhyphen"/>ven, that it was Jeſus that he Perſecuted, he was pricked at the heart, and trembling and aſtoniſhed, ſaid, <hi>Lord, what wilt thou have me to do?</hi> Now by theſe two places of Scrip<g ref="char:EOLhyphen"/>ture, you may plainly ſee that <hi>Peter</hi> Sinned againſt great Light, and <hi>Paul</hi> out of great Malice, yet none of them both committed the Unpardonable Sin againſt the Holy Ghoſt. But whenſoever Light and Malice meets to<g ref="char:EOLhyphen"/>gether in one Man, then there is the Sin againſt the Holy Ghoſt. Now as all other Sins, ſo this Sin againſt the Holy Ghoſt may be committed in Thought, Word, or Action.</p>
+            <pb facs="tcp:34578:8"/>
+            <p>
+               <hi>Firſt,</hi> In Thought; that is, when a wicked Man, againſt his clear light and knowledge, doth but conceive a malicious Thought or Purpoſe towards perſecuting the Goſpel of Chriſt, or of the Saints of Chriſt, to hinder the work of the Holy Ghoſt in them.</p>
+            <p>This Sin, is to be thought, was the Sin of the loſt Angels, for which cauſe they were loſt without all hopes of Pardon. Now ſome diſpute whether their Sin was a Sin of the Thought; but I ſay, with all likelihood it was; for the Angels being only Spirits without Bodies, and ſo have no uſe of bodi<g ref="char:EOLhyphen"/>ly Tongues, it could not be committed in Word, nor yet could they commit it in Acti<g ref="char:EOLhyphen"/>on, becauſe they were caſt out of Heaven before they could bring it into practice, therefore it muſt be a Sin of the Thought.</p>
+            <p>Now their Sin was this, their habitation being in the higheſt Heavens, next under God himſelf, they had exceeding great Light and Knowledge, they had more Knowledge than all the Men in the World ever had, and were happy above all other Creatures; but then not being contented with this Eſtate, they thought to be as high as God himſelf; there<g ref="char:EOLhyphen"/>fore maliciouſly ſought to make War againſt the Son of God, and put him out of his Throne, for which cauſe they were immedi<g ref="char:EOLhyphen"/>ately thruſt out of Heaven, never more to
+<pb facs="tcp:34578:8"/>ſee the face of Mercy; and thus from the beginning they have been counted malicious and revengeful, a raging Beaſt, and a roaring Lyon; thus their Sin being of the ſame nature with the Sin againſt the Holy Ghoſt, they were excluded all hopes of pardon.</p>
+            <p>But the Sin of our firſt Parents was not the unpardonable Sin againſt the Holy Ghoſt, is clear; for tho' they ſinned againſt great light, yet they obeyed, and complyed with the will of God, even when the Tempter came, until at laſt they were inticed and overcome; but they did not fall maliciouſly, and ſo were not excluded a poſſibility of mercy.</p>
+            <p>
+               <hi>Secondly,</hi> This Sin may be committed in Word too; that is, when a man ſpeaks blaſ<g ref="char:EOLhyphen"/>phemouſly and maliciouſly of Chriſt and his ho<g ref="char:EOLhyphen"/>ly way; this was the Sin of the Scribes and Phariſees, <hi>Mark</hi> 3.22. <hi>There were certain Scribes came and ſaid, this Fellow hath Beelzebub, and caſleth out Devils by the Prince of the Devils:</hi> Therefore ſaith Chriſt to them, ver. 28.29. <hi>Verily I ſay unto you, all Sins ſhall be forgiven unto the Sons of men, and Blaſphemies, wherewith ſoever they ſhall blaſpheme; but whoſoever ſhall blaſ<g ref="char:EOLhyphen"/>pheme againſt the Holy Ghoſt, hath never forgiveneſs, but is in danger of eternal Damnation.</hi>
+            </p>
+            <p>Now the reaſon of this ſpeech of our bleſſed Saviour, is ſhewed in verſe 20. becauſe they ſaid, <hi>he hath an unclean Spirit;</hi> which plainly
+<pb facs="tcp:34578:9"/>ſhews, that theſe Scribes had ſpoken Blaſphemy againſt the Holy Ghoſt. Theſe Scribes were great Learned Men, they could know no other, but that Chriſt was the Son of God, and they knew that he caſt out Devils by the Spirit of God; and yet they out of ſpite to Chriſt, ma<g ref="char:EOLhyphen"/>liciouſly and blaſphemouſly ſaid, <hi>that he caſt out Devils by</hi> Beelzebub <hi>the chief of Devils:</hi> Thus theſe Scribes committed the unpardonable Sin againſt the Holy Ghoſt, and that in Word.</p>
+            <p>
+               <hi>Thirdly;</hi> This Sin may be committed in Acti<g ref="char:EOLhyphen"/>on too; that is, when a man being once throughly enlightned, and entered upon a holy courſe of Life, and taſted the comforts of Gods Spirit, and had ſome foretaſte of the joys of Heaven, and not only makes profeſſion of the Goſpel, but teaches it to others; he at laſt takes a diſlike of theſe holy courſes, and through ſpite and malice, utterly forſakes, oppoſes, and perſecutes thoſe good ways of God, which he before profeſt and taught: But to ſum up this point; this unpardonable Sin againſt the Holy Ghoſt, is fully deſcribed by the Apoſtle to the <hi>Hebrews,</hi> Chap. 10.26, 27, 28. <hi>For if we ſin wilful<g ref="char:EOLhyphen"/>ly after we have received the knowledge of the truth, there remaineth no more ſacrifice for Sin, but a fearful looking for of Judgment, and fiery Indignation; how much ſorer puniſhment ſhall he be thought worthy, who hath trodden under foot the Son of God, and counted the blood of the Covenant, wherewith he was ſanctify'd,
+<pb facs="tcp:34578:9"/>an unholy thing, and have done deſpite to the Spi<g ref="char:EOLhyphen"/>rit of Grace.</hi> Likewiſe, <hi>Heb.</hi> 6.4, 5, 6. <hi>For it is impoſſible for thoſe who when once enlightned, and have taſted of the Heavenly gift, and were parta<g ref="char:EOLhyphen"/>kers of the Holy Ghoſt, and have tasted the good word of God, and the powers of the World to come, if they fall away to renew them again to Repentance, ſeeing they Crucifie afreſh to themſelves the Son of God, and put him to open ſhame.</hi>
+            </p>
+            <p>Now the Sin againſt the Holy Ghoſt is brief<g ref="char:EOLhyphen"/>ly this; It is a wilful and malicious oppoſing of the known truth, joyned with final Apoſtacy.</p>
+            <p>I ſhall a little explain theſe words, and then proceed.</p>
+            <p>
+               <hi>First,</hi> This <hi>Sin unto Death</hi> is an oppoſing Sin; now to oppoſe a thing, is to contradict it, or gainſay it; when a man ſays a thing is ſo and ſo, he denies it, and ſays it is not ſo; when a man ſays a thing muſt be done, he ſays again, it muſt not nor ſhall not be done; ſuch an oppoſition is in the heart of him that com<g ref="char:EOLhyphen"/>mits this unpardonable Sin; but a man may be an oppoſing man, and yet cannot commit this Sin; therefore,</p>
+            <p>
+               <hi>Secondly,</hi> It is the Truth that he muſt op<g ref="char:EOLhyphen"/>poſe; that is, he muſt utterly oppoſe and re<g ref="char:EOLhyphen"/>ject Chriſt, who ſaid, <hi>I am the Truth,</hi> Joh. 14.6. He oppoſeth all his threatnings, and will not believe his promiſes, and counts him to be a Seducer of the people, and counts the blood
+<pb facs="tcp:34578:10"/>of the Covenant to be any unholy thing; nay, he alſo oppoſes the Spirit of Chriſt, who is the Spirit of Truth; ſo that he will not obey his motions, and will not be led nor guided by him; but a man may oppoſe the Truth, and yet do it ignorant; therefore,</p>
+            <p>
+               <hi>Thirdly;</hi> It muſt be the known truth that he oppoſeth; he muſt be once enlightned: But you muſt know, that it is not only a notional knowledge, for a man may have great knowledge, and humane Learning, he may know much of God, and of his will in the Letter of the word, and yet not be capable of committing this unpardonable Sin: But he muſt be ſo far enlightned, as to ſee the e<g ref="char:EOLhyphen"/>vil that is in Sin, and the excellency of Chriſt; he muſt taſte of the Heavenly gift, and be made partaker of the Holy Ghoſt, and taſte of the good word of God, and the powers of the World to come; and by the blood of the Covenant, which he counts as an unholy thing, he is in part ſanctified and cleanſed from many Sins, he muſt have ſweet communion with God in his word and Sacra<g ref="char:EOLhyphen"/>ments; he muſt have ſome taſte of the love and favour of God, and comforts of his Spi<g ref="char:EOLhyphen"/>rit, and be refreſhed by it, and taſte of the joys of Heaven, and have ſome fore-taſte of the happineſs of the World to come.</p>
+            <pb facs="tcp:34578:10"/>
+            <p>This is that light and knowledge that lays a Man open to the committing of that Unpardo<g ref="char:EOLhyphen"/>nable ſin: But yet a Man may ſin againſt all this light and experiamental knowledge, and yet do it through the weakneſs of the fleſh, or through ſome violent temptation, as <hi>Peter</hi> did when he denyed Chriſt; therefore,</p>
+            <p>
+               <hi>Fourthly,</hi> He muſt oppoſe the known truth willfully; he muſt willfully fall away, after he hath received the knowledge of the truth; o<g ref="char:EOLhyphen"/>ther ſins are commited through infirmity, but this ſin is willful; the will is the chief actor in it; and to compleat and make up this Unpar<g ref="char:EOLhyphen"/>donable ſin, there is,</p>
+            <p>
+               <hi>Fifthly,</hi> Malice in the heart; without this, this ſin cannot be committed; it muſt be a ma<g ref="char:EOLhyphen"/>licious oppoſing of the known truth; that is, when a Man being once enlightned, and taſted of the Heavenly gift, and the good word of God, and have been made Partakers of the <hi>Holy Ghoſt,</hi> and have had ſome ſweet reliſh and fore<g ref="char:EOLhyphen"/>taſte of Heaven, he come at laſt to take a diſlike, and to hate the Holy ways of God, and malici<g ref="char:EOLhyphen"/>ouſly oppoſe and perſecute them, and to doe de<g ref="char:EOLhyphen"/>ſpite to the Spirit of Grace, Crucifying afreſh the Son of God, and putting him to open ſhame.</p>
+            <p>Now a Man having gone thus far, he comes in the laſt place to be an Apoſtate; for thus to oppoſe, thus willfully and maliciouſly to op<g ref="char:EOLhyphen"/>poſe the known truth, is always joyned with final and total Apoſtacy; for he that is ſo far
+<pb facs="tcp:34578:11"/>enlightned, as to ſee the evil of ſin, and the ex<g ref="char:EOLhyphen"/>cellency of Chriſt and Holineſs, and been made partakers of the <hi>Holy Ghoſt,</hi> of his Graces and Comforts, and taſteth of Gods love and favour in Jeſus Chriſt, and has ſome fore-taſte of the Joys of the World to come; now for ſuch a one Willfully, Spitefully, and Maliciouſly to fall a<g ref="char:EOLhyphen"/>way, he ſo falls, as never to riſe more: It is true, the Children of God fall, and that often, and yet riſe again; but when they fall through weakneſs of infirmity, and not willfully and maliciouſly; but theſe wicked wretches fall willfully and maliciouſly, and ſo fall finally. Againſt ſuch the door of mercy is for ever ſhut; concerning ſuch St. <hi>Peter</hi> ſaith, <hi>It had been bet<g ref="char:EOLhyphen"/>ter for them not to have known the way of Righteouſ<g ref="char:EOLhyphen"/>neſs, then after they have known, to turn from the Holy Commandement delivered unto them:</hi> But it happened unto them according to the true Proverb, <hi>The Dog is turned to his vomit again; and the Sow that was waſhed, to her wallowing in the Mire,</hi> 2. Pet. 2.21, 22. There is ſuch another dreadful place of Scripture againſt theſe kind of Apoſtates; that is, <hi>Heb.</hi> 10.26. <hi>For if we ſin willfully after we have received the knowledge of the truth, there remains no more ſacrifice for ſin, but a fearful looking for of Judgement and fiery Indignation.</hi> Thus I have gi<g ref="char:EOLhyphen"/>ven you five ſteps, as ſo many links in a Chain, all which makes up the unpardonable ſin againſt the <hi>Holy Ghoſt.</hi> It is a Willful and Malicious op<g ref="char:EOLhyphen"/>poling of the known truth, joyned with final
+<pb facs="tcp:34578:11"/>Apoſtacy. Thus I have ſhewed you as Plain as I can, what this ſin unto death is: Now to proceed:</p>
+            <p>
+               <hi>Secondly,</hi> The next thing to be conſidered, is, that all other Sins or Blaſphemies whatſo<g ref="char:EOLhyphen"/>ever, may be forgiven, be our ſins never ſo great and many; tho' we be the vileſt wretches that ever lived, yet there is hopes of pardon upon Repentance: <hi>Manaſſes</hi> was the vileſt Sinner that ever we read of, yet he Repented and was pardoned: alſo <hi>Mary Magdalen,</hi> was the Chief of ſinners, for out of her came ſeven Devils, yet becauſe ſhe loved much, much was forgiven her. A Man may be a Whoremonger, an Adulter<g ref="char:EOLhyphen"/>er, and work Witch-craft, and deal with Fami<g ref="char:EOLhyphen"/>liar Spirits, and yet at laſt he may Repent and be ſaved; and yet I have heard talk of ſome that are ſo fooliſh, as to take the ſin of. Fornication to be a ſin Unpardonable; for from Gods own words in the fourth Commandment, <hi>I the Lord thy God am a jealous God, viſiting the Sins of the Fathers, unto the third and fourth generation:</hi> From whence they ſay, that Children that are baſe born are not ſaved, unto the third and fourth generation. But this is a moſt erronious Interpretation of Gods Word, it is them that hate him, and continue hating of him, that he will viſit their Iniquities upon, for Fornicators and Adulterers themſelves, may repent and be ſaved, much more the Children, who knew nothing, nor could help nothing: For Chriſt with his own
+<pb facs="tcp:34578:12"/>Mouth tells the Scribes and Phariſes, <hi>Matt.</hi> 21.13. that the Publicans and Harlots ſhall enter into the Kingdom of God before them; for there is no Sin but is pardonable, except the ſin againſt the <hi>Holy Ghoſt.</hi> But</p>
+            <p>
+               <hi>Thirdly;</hi> The ſin againſt the <hi>Holy Ghoſt</hi> is alone the ſin unto Death, that is, a ſin Unpardona<g ref="char:EOLhyphen"/>ble, never to be forgiven, neither in this World, nor in the World to come: Not be<g ref="char:EOLhyphen"/>cauſe the Merits of Chriſt is not ſufficient to pardon it, for this ſin, as well as for all other ſins, are but Finite; whereas the Merits of Chriſt are Infinite.</p>
+            <p>
+               <hi>Object.</hi> But what is the reaſon then that this ſin cannot be forgiven?</p>
+            <p>
+               <hi>Anſwer.</hi> This Queſtion brings me to the fourth thing conſiderable; do but mind me a little, and I will as plain and as clear as I can, tell you what the Reaſon is.</p>
+            <p>The Reaſon ariſes from the Nature of this ſin; for this ſin, by whomſoever it is commit<g ref="char:EOLhyphen"/>ted burdens the heart, and ſears the Conſci<g ref="char:EOLhyphen"/>ence, ſo that there is no place for Repentance to be wrought, neither for that nor for any other ſin. This Sin is called the Sin againſt the <hi>Ho<g ref="char:EOLhyphen"/>ly Ghoſt;</hi> not becauſe it is a Sin againſt the Perſon of the <hi>Holy Ghoſt,</hi> for ſo is all Sin againſt his Perſon; but it is called the Sin againſt the <hi>Holy Ghoſt,</hi> becauſe it is againſt the Office and Work of the <hi>Holy Ghoſt.</hi> Now every one of the three Perſons have their particular Work:
+<pb facs="tcp:34578:12"/>the Work of the Father is to Create, the Work of the Son is to Redeem loſt Sinners; and the work of the <hi>Holy Ghoſt</hi> is, to enlighten, Convince, Sanctifie, and Convert them: Now a Man committing this Unpardonable ſin againſt the <hi>Holy Ghoſt,</hi> Rejects all this work of the Spi<g ref="char:EOLhyphen"/>rit. Now for a Man to be throughly enlightnell by the <hi>Holy Ghoſt,</hi> that he comes to know the evil of ſin and of his loſt and undone condition without Chriſt, and that none but the Merits of Chriſt can ſave him, then for him willfully and maliciouſly to oppoſe him and the work of his Spirit, and will not be beholding to him for Salvation, now for ſuch a one to be forgiven, is utterly impoſſible.</p>
+            <p>
+               <hi>Object.</hi> But why is it Impoſſible? nothing is Impoſſible with God.</p>
+            <p>
+               <hi>Anſwer.</hi> Nothing is Impoſſible with God that does not imploy a Contradiction; but for God to Forgive the ſin committed againſt the <hi>Holy Ghoſt</hi> imploys a Contradiction: for how can he have Pardon given him, that utterly re<g ref="char:EOLhyphen"/>jects it? As for inſtance: A Man through Ig<g ref="char:EOLhyphen"/>norance may deny Chriſt, and maliciouſly fall from the profeſſion of the truth, into all kind of wickedneſs, as did Saint <hi>Paul,</hi> and the <hi>Jews</hi> that Crucified Chriſt: and yet not falling a<g ref="char:EOLhyphen"/>gainſt Light and Knowledge, there is room for the <hi>Holy Ghoſt</hi> to work upon him to enlighten him, and to convince him of his Folly, and ſo makes way for Converſion. And beſides, a
+<pb facs="tcp:34578:13"/>Man, after he hath been enlightned, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et falls back, through infirmity and the weakneſs of the fleſh, as <hi>Peter</hi> did, and doth not fall will<g ref="char:EOLhyphen"/>fully, and maliciouſly, then the <hi>Holy Ghoſt</hi> may work upon him, and renew him again, and work in him a deep ſorrow for abuſing ſo much love and mercy, and ſo carry on his good work unto Salvation. But for a Man when he is once enlightned by the <hi>Holy Ghoſt,</hi> and has had ſome taſte of Gods Love and Favour, and ſome fore<g ref="char:EOLhyphen"/>taſte of the joys of Heaven, and then at laſt utterly oppoſing this illuminating work of the Spirit, and willfully and maliciouſly to fall a<g ref="char:EOLhyphen"/>way, and ſo to reject the Spirits renewing work: Alas! then the <hi>Holy Ghoſt</hi> has done; he has no<g ref="char:EOLhyphen"/>thing more that he can work in him; for this wretched creature has utterly rejected him; his enlightning work, his convincing work, his Sanctifing work, he has utterly rejected Chriſts pardon, Heaven and all. Now this poor wretch is paſt all hopes of Mercy, all hopes of Pardon, nay, for ſuch a one we are forbidden to Pray, as you ſee in the verſe whereof my Text is a part. Now Chriſt prayed for them that mali<g ref="char:EOLhyphen"/>ciouſly Crucified him, <hi>Luke</hi> 23.34. ſaying, <hi>Father forgive them, for they know not what they do.</hi> Alas! they knew not what they were doing; for had they knew it, they would not have Cru<g ref="char:EOLhyphen"/>cified the Lord of Glory, 1. <hi>Corinth.</hi> 2.8. But if they had known, and yet Crucified him, Chriſt would not have ſpent his breath to pray
+<pb facs="tcp:34578:13"/>for them; for it would have been utterly in vain; for when a Man has committed this Unpardona<g ref="char:EOLhyphen"/>ble ſin, all the prayers of Heaven, nor Earth, can do him no good, for as the Text ſaith, <hi>There is a Sin unto Death.</hi>
+            </p>
+            <p>I ſhall conclude all with a few words of Ap<g ref="char:EOLhyphen"/>plication, and I will be as ſhort as poſſible, be<g ref="char:EOLhyphen"/>cauſe this Diſcourſe will be to large for ſo ſmall a Book. Here is firſt, a word of Comfort; Secondly, a word of Counſel.</p>
+            <p>
+               <hi>Firſt,</hi> A word of Comfort. It may be with reading and hearing of this terrible Diſ<g ref="char:EOLhyphen"/>courſe, your hearts begin to ake with fear that you have committed this Unpardonable ſin. But I think I have ſufficiently proved to you what it is; and I tell you again, that there are but few that can commit it, nay, there are millions that are tormented in Hell, yet never committed this Sin: Nay, further, an ignorant Proteſtant may through weakeneſs, and out of a ſlaviſh fear, turn Papiſt, and renounce his pro<g ref="char:EOLhyphen"/>feſſion, and yet not commit this Unpardona<g ref="char:EOLhyphen"/>ble Sin againſt the <hi>Holy Ghoſt:</hi> for doing it out of ignorance and infirmity, there may be matter left for the <hi>Holy Ghoſt</hi> to work upon, whereby he may yet be Converted and Saved. Conſider this alſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if you are afraid that you have committed <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with that you had not committed it if it were to do again, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>de ſig<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you have not committed <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <pb facs="tcp:34578:14" rendition="simple:additions"/>
+            <p>
+               <hi>Secondly,</hi> I muſt conclude alſo with a word of Counſel; Firſt, watch very deligently againſt all ſin; but above all take eſpecial heed of thoſe ſins that come near to the ſin againſt the <hi>Holy Ghoſt,</hi> and they are theſe, Hypocriſie, taking only the outward profeſſion of Religion, and ſo diſſembling, and mocking of God, ſinning willfully againſt Conviction of Conſcience, and againſt great Light and Knowledge; ſinning preſumptuouſly, and with an high hand: theſe ſins, tho' none of them are the direct ſin againſt the <hi>Holy Ghoſt,</hi> yet they will come very near to it; therefore take eſpecial need of them, leaſt they in time ſhould bring you to the commit<g ref="char:EOLhyphen"/>ting of that Uunpardonable Sin.</p>
+            <p>And <hi>Laſtly,</hi> Labour to be Sincere in Reli<g ref="char:EOLhyphen"/>gion, and by a true Faith, ingraft your ſelves into Chriſt; for they that be with Chriſt can never commit this Unpardonable Sin; For know this, that amongſt all the Sins committed by fallen Mankind, there is one Sin, <hi>that is a Sin unto Death,</hi> which is the Unpardonable Sin againſt the <hi>Holy Ghoſt;</hi> which whoſoever com<g ref="char:EOLhyphen"/>mits it, hath no forgiveneſs, neither in this World, nor in the World to come.</p>
+            <p>Conſider what has been ſaid, and the Lord give you Underſtanding.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34578:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
